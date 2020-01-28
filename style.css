@@ -1,0 +1,57 @@
+body{
+	background-color: #ffcc00;
+}
+
+hr{
+	border-style: none;
+	border-top-style: dotted;
+	background-color: transparent;
+	border-color: black;
+	border-width: 5px;
+	width: 50%;
+
+}
+
+h1, h2 {
+  color: black;
+}
+
+.ratings{
+	color: yellow;
+}
+
+.contact{
+	font-size: 50px;
+}
+
+
+
+.answers{
+	font-size: 50px;
+}
+
+td{
+ font-family: calibri;
+}
+.navigation:hover{
+	background-color: #000;
+}
+
+
+.navigation{
+    border: solid 3px;
+	border-color:#F00;
+	background-color: #ffcc00;
+	padding: 10px;
+	margin: 10px:
+
+}
+
+a{
+	text-decoration:none;
+	color:#F00
+}
+
+.contact-me:hover{
+	background-color: #000;
+}
